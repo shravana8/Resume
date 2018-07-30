@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Resume</string>
+    <string name="shravana_patil"> Name : Shravana Patil</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tab_3">projrct Information</string>
+    <string name="tab_1">Personal Informtion</string>
+    <string name="tab_2">Educational Information</string>
+    <string name="tab_label1">Personal</string>
+    <string name="tab_label2">Education</string>
+    <string name="tab_label3">Project</string>
+    <string name="tab_1a">Name :</string>
+    <string name="tab_1b">Contact No :</string>
+    <string name="tab_1c">Email Id :</string>
+    <string name="tab_1d">Gittab Id :</string>
+    <string name="tab_1e">FB Id :</string>
+    <string name="tab_2a">Graduation :</string>
+    <string name="tab_2b">HS_Certificate :</string>
+    <string name="tab_2c">PU_Certificate :</string>
+    <string name="tab_2d">Training : </string>
+    <string name="tab_3a">Project Name :
+    \n\nDescription :
+    \n\n</string>
+    <string name="tab_3b">Project Name :
+        \n\nDescription :
+    \n\n</string>
+    <string name="tab_3c">Project Name :
+    \n\nDescription :
+    \n\n</string>
+
+</resources>
